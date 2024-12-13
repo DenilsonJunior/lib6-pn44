@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Itau Display Pro XBold';
+    src: url('ItauDisplayPro-XBold.woff2') format('woff2'),
+        url('ItauDisplayPro-XBold.woff') format('woff'),
+        url('ItauDisplayPro-XBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Itau Display Pro';
+    src: url('ItauDisplayPro-Heavy.woff2') format('woff2'),
+        url('ItauDisplayPro-Heavy.woff') format('woff'),
+        url('ItauDisplayPro-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Itau Display Pro';
+    src: url('ItauDisplayPro-Bold.woff2') format('woff2'),
+        url('ItauDisplayPro-Bold.woff') format('woff'),
+        url('ItauDisplayPro-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Itau Display Pro';
+    src: url('ItauDisplayPro-Regular.woff2') format('woff2'),
+        url('ItauDisplayPro-Regular.woff') format('woff'),
+        url('ItauDisplayPro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Itau Display Pro';
+    src: url('ItauDisplayPro-Light.woff2') format('woff2'),
+        url('ItauDisplayPro-Light.woff') format('woff'),
+        url('ItauDisplayPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Itau Display Pro';
+    src: url('ItauDisplayPro-Black.woff2') format('woff2'),
+        url('ItauDisplayPro-Black.woff') format('woff'),
+        url('ItauDisplayPro-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+

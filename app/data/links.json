@@ -1,0 +1,27 @@
+[
+	{
+		"pt-br": {
+			"link01": {
+				"href": "",
+                "class": "",
+                "ariaLabel": ""
+			}
+		},
+
+		"en-us": {
+			"link01": {
+				"href": "",
+                "class": "",
+                "ariaLabel": ""
+			}
+		},
+
+		"es": {
+			"link01": {
+				"href": "",
+                "class": "",
+                "ariaLabel": ""
+			}
+		}
+	}
+]
